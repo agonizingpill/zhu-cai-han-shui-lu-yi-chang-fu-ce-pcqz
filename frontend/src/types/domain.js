@@ -1,1 +1,1 @@
-export const domainEntities=['BambooLot','MoistureSample','AnomalyLot','KilnRecheck','ReleaseDecision'];
+export const domainEntities=['BambooLot','MoistureSample','AnomalyLot','KilnRecheck','RecheckReading','ReleaseDecision'];
